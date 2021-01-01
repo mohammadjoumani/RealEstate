@@ -1,0 +1,1 @@
+package com.example.realestate.model.entity;public classSlideImage {    private int image;    public SlideImage(int image) {        this.image = image;    }    public int getImage() {        return image;    }    public void setImage(int image) {        this.image = image;    }}

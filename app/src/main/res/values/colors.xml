@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2B62A8</color>
+    <color name="colorPrimaryDark">#B5BBC4</color>
+    <color name="colorAccent">#383132</color>
+    <color name="background">#F1F2F8</color>
+    <color name="backgroundDelete">#B65736</color>
+    <color name="cardLeasing">#353535</color>
+    <color name="cardSwap">#76757B</color>
+    <color name="cardMortgage">#4EAFFE</color>
+    <color name="purple">#673AB7</color>
+    <color name="textColorHighlight">#4DD81B60</color>
+</resources>
